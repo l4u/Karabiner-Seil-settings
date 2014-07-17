@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<root>
+  <item>
+    <name>JIS_YEN to Fn</name>
+    <identifier>private.jis_key_to_fn</identifier>
+    <autogen>--KeyToKey-- KeyCode::JIS_YEN, KeyCode::FN</autogen>
+  </item>
+  <item>
+    <name>Escape to Fn</name>
+    <identifier>private.escape_to_fn</identifier>
+    <autogen>--KeyToKey-- KeyCode::ESCAPE, KeyCode::FN</autogen>
+  </item>
+</root>
