@@ -1,0 +1,4 @@
+Change Caps Lock 110
+Enable NFER 36
+Enable XFER 51
+Enable KATAKANA 48
